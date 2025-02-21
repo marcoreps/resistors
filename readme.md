@@ -10,7 +10,7 @@
 | VHP101T | E503  | 61k900  |  .01    | B2203    |    61897.48    | +14.6mΩ/°C|             |Used for Hamon Divider|
 | VHP101T | E505  | 61k900  |  .01    | B2203    |    61899.19    | -3.8mΩ/°C |             |         |
 | VHP101T | E506  | 61k900  |  .01    | B2203    |    61899.24    | +2.3mΩ/°C |             |Used for Hamon Divider|
-| VHP101T | E508  | 61k900  |  .01    | B2203    |    61899.77    | 0 ?!      |             |Used for Hamon Divider|
+| VHP101T | E508  | 61k900  |  .01    | B2203    |    61899.77    | 0 ?!      | 21.6°C      |Used for Hamon Divider|
 | VHP101T | E509  | 61k900  |  .01    | B2203    |    61899.84    | +2.0mΩ/°C |             |Used for Hamon Divider|
 | VHP101T | K970  | 1k5000  |  .005   | B2102    |"A" / 1.0000372 |-1.08mΩ/°C |             |Y40781k50000V9L|
 | VHP101T | K947  | 1k5000  |  .005   | B2102    |"A" / 1.0000336 |-1.67mΩ/°C |             |Y40781k50000V9L|
