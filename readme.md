@@ -24,4 +24,6 @@
 | VHP101T | "5"   | 40k     |  .1     | B1229    |                |+17.0mΩ/°C |             |used for 10kΩ box, from hifi-szjxic|
 | VHP101T | "6"   | 40k     |  .1     | B1229    |                |+27.4mΩ/°C |             |used for 10kΩ box, from hifi-szjxic|
 
+## Fluke Hermetic WW
+| Type    | Mark  | Nom Ω   | Nom Tol |(Date)code| Measured Ω 23  | TCR 18-28 | Zero TCR at | Note    |
 | Fluke Herm WW |"B"|99.925k|  .01    | 313726   |                |+184.184 mΩ/°C |         | P3.0 U4  |
