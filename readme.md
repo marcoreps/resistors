@@ -27,4 +27,5 @@
 ## Fluke Hermetic WW
 | Type    | Mark  | Nom Ω   | Nom Tol |(Date)code| Measured Ω 23  | TCR 18-28 | Zero TCR at | Note    |
 | ------- | ----  | ------- | ------- | -------- | -------------- | --------- | ----------- |---------|
-| Fluke Herm WW |"B"|99.925k|  .01    | 313726   |                |+184.184 mΩ/°C |         | P3.0 U4  |
+| Fluke Herm WW |"B"|99.925k|  .01    | 313726   |                |+184.184 mΩ/°C |         | P3.0 U4 |
+| Fluke Herm WW |"L"|99.925k|  .01    | 313726   |                |-107.949 mΩ/°C |         | N1.5 S5 |
