@@ -24,6 +24,24 @@
 | VHP101T | "5"   | 40k     |  .1     | B1229    |                |+17.0mΩ/°C |             |used for 10kΩ box, from hifi-szjxic|
 | VHP101T | "6"   | 40k     |  .1     | B1229    |                |+27.4mΩ/°C |             |used for 10kΩ box, from hifi-szjxic|
 
+## Bulk Metal foil dividers
+| Type    | Mark  |Nom Ω A B| Nom Tol |(Date)code| Measured Ω 23  |TCR A 18-28|TCR B 18-28| Note    |
+| ------- | ----  | ------- | ------- | -------- | -------------- | --------- | --------- |---------|
+| VHD200  |   A   | 13k 1k  |  0.01%  |  B2135   |                |           | -1.34 mΩ  |Blue seal|
+| VHD200T |   B   | 13k 1k  |  0.005% |  B2127-  |                |           | -0.49 mΩ  |Oil leak fixed|
+| VHD200T |   C   | 12k 1k  |  0.005% |  B2202-  |                |           | +0.56 mΩ  |         |
+| VHD200T |   D   | 12k 1k  |  0.005% |  B2202-  |                |           | -0.82 mΩ  |         |
+| VHD200T |   E   |11k6 1k  |  0.005% |  B2241-  |                |           | -0.38 mΩ  |         |
+| VHD200T |   F   | 12k 1k  |  0.005% |  B2202-  |                |           | -0.94 mΩ  |         |
+| VHD200T |   G   |19k7 10k03| 0.005% |  B2228-  |                |           |           |         |
+| VHD200T |   H   | 10k 5k  |  0.01%  |  B2148-  |                |           |           |         |
+| VHD200T |   H   |  2k 5k  |  0.1%   |  B2135-  |                |           |           |         |
+
+
+
+
+
+
 ## Fluke Hermetic WW
 | Type    | Mark  | Nom Ω   | Nom Tol |(Date)code| Measured Ω 23  | TCR 18-28 | Zero TCR at | Note    |
 | ------- | ----  | ------- | ------- | -------- | -------------- | --------- | ----------- |---------|
